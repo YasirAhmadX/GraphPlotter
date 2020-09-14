@@ -266,6 +266,13 @@ def Menu():
         Label(ancframe,text='\n\nImplementation Project',font=('Times New Roman',15)).grid()
         Label(ancframe,text='\nVisit\nhttps://github.com/YasirAhmad-EccentriX/GraphPlotter\nfor more info regarding future updates and progress.',font=('Times New Roman',15)).grid()
 
+    def exit():
+        try:
+            pyplot.close()
+        except:
+            pass
+        window.destroy()
+
 
     menuframe=Frame(window)
     menuframe.grid(row=0,column=3)
