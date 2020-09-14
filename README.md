@@ -40,9 +40,11 @@ Project slowly transposed into a Graph Plotting Software which currently(in late
   * Verification password : HeisenBerG
   * Link: [GraphPlotterIII](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter3.0.py)
 ## GraphPlotterIV
-  *  First GUI varient
-  *  For plotting polynomial functions and trignometric functions.
-  *  Link: [GraphPlotterIV](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter4.0(GP-IV).py)
+  * First GUI varient
+  * For plotting polynomial functions and trignometric functions.
+  * Link:
+    * Python File: [GraphPlotterIV](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter4.0(GP-IV).py)
+    * Executable File: [GraphPlotterIV](https://drive.google.com/file/d/19lc6ELbS0LspHPiy3AOeNnw40f1fcKqT/view)
 ## GraphPlotterV
   *  [Under Development!!!]
   *  For plotting polynomial functions , trignometric functions , Bar Garphs and Pie Charts.
