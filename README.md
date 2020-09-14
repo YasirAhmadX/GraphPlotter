@@ -25,21 +25,25 @@ Project slowly transposed into a Graph Plotting Software which currently(in late
      * tkinter
      * matplotlib
 
-## Link to program files
-* [GraphPlotterI](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter1.0.py)
+# Versions
+## GraphPlotterI
   * Most basic version
   * For plotting straight line, quadratic functions and trignometric functions.
-* [GraphPlotterII](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter2.0.py)
+  * Link: [GraphPlotterI](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter1.0.py)
+## GraphPlotterII
   * For plotting straight line, polynomial functions and trignometric functions.
-* [GraphPlotterIII](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter3.0.py)
+  * Link: [GraphPlotterII](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter2.0.py)
+## GraphPlotterIII
   * For plotting straight line, quadratic functions and trignometric functions.
   * Two different graphing planes available.
   * Help available.
   * Verification password : HeisenBerG
-* [GraphPlotterIV](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter4.0(GP-IV).py)
+  * Link: [GraphPlotterIII](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter3.0.py)
+## GraphPlotterIV
   *  First GUI varient
   *  For plotting polynomial functions and trignometric functions.
-* GraphPlotterV
+  *  Link: [GraphPlotterIV](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter4.0(GP-IV).py)
+## GraphPlotterV
   *  [Under Development!!!]
   *  For plotting polynomial functions , trignometric functions , Bar Garphs and Pie Charts.
   *  Help section addressing FAQs.
