@@ -29,21 +29,21 @@ Project slowly transposed into a **Graph Plotting Software** which currently(in 
 ## GraphPlotterI
   * Most basic version
   * For plotting straight line, quadratic functions and trignometric functions.
-  * Link: [GraphPlotterI](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter1.0.py)
+  * Link: [GraphPlotterI](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter1.0.py)
 ## GraphPlotterII
   * For plotting straight line, polynomial functions and trignometric functions.
-  * Link: [GraphPlotterII](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter2.0.py)
+  * Link: [GraphPlotterII](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter2.0.py)
 ## GraphPlotterIII
   * For plotting straight line, quadratic functions and trignometric functions.
   * Two different graphing planes available.
   * Help available.
   * Verification password : HeisenBerG
-  * Link: [GraphPlotterIII](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter3.0.py)
+  * Link: [GraphPlotterIII](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter3.0.py)
 ## GraphPlotterIV
   * First GUI varient
   * For plotting polynomial functions and trignometric functions.
   * Link:
-    * *Python File*: [GraphPlotterIV](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/GraphPlotter4.0(GP-IV).py)
+    * *Python File*: [GraphPlotterIV](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter4.0(GP-IV).py)
     * *Executable File*: [GraphPlotterIV](https://drive.google.com/file/d/19lc6ELbS0LspHPiy3AOeNnw40f1fcKqT/view)
 ## GraphPlotterV
   *  **[Under Development!!!]**
