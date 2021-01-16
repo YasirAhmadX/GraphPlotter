@@ -9,7 +9,7 @@ Project slowly transposed into a **Graph Plotting Software** which currently(in 
 ### Note
  * Written on **python(3.x)**
  * CLI versions
-   * GraphPlotterI
+   * [GraphPlotterI](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/README.md#GraphPlotterI)
    * GraphPlotterII
    * GraphPlotterIII
  * GUI versions
