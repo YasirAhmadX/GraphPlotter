@@ -263,8 +263,8 @@ def Menu():
 
         Label(ancframe,text='Graph Plotter IV',font=('Times New Roman',20)).grid()
         Label(ancframe,text='\nBy Yasir Ahmad',font=('Arial',8)).grid()
-        Label(ancframe,text='\n\nImplementation Project',font=('Times New Roman',15)).grid()
-        Label(ancframe,text='\nVisit\nhttps://github.com/YasirAhmad-EccentriX/GraphPlotter\nfor more info regarding future updates and progress.',font=('Times New Roman',15)).grid()
+        Label(ancframe,text='\n\nImplementation Project for matplotlib and tkinter',font=('Times New Roman',15)).grid()
+        Label(ancframe,text='\nVisit\nhttps://github.com/EccentricX/GraphPlotter\nfor more info regarding future updates and progress.',font=('Times New Roman',15)).grid()
 
     def exit():
         try:
