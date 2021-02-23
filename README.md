@@ -60,7 +60,7 @@ Project slowly transposed into a **Graph Plotting Software** which currently(in 
   * For plotting straight line, quadratic functions and trignometric functions.
   * Two different graphing planes available.
   * Help available.
-  * Verification password : HeisenBerG
+  * Verification password : `HeisenBerG`
   * Link: [GraphPlotterIII](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter3.0.py) 
 
 
