@@ -51,7 +51,7 @@ Project slowly transposed into a **Graph Plotting Software** which currently(in 
   * Most basic version
   * For plotting straight line, quadratic functions and trignometric functions.
   * Link: [GraphPlotterI](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter1.0.py)  
-  * ![GP1-1](/images/gp1-console.png)  
+  * ![GP1-1](https://raw.githubusercontent.com/EccentricX/GraphPlotter/master/images/gp1-console.png)  
   * ![GP1-2](/images/gp1-ss.png)
 
 
